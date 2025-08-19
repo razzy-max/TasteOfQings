@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Title
 
 A brief description of your project.
@@ -24,3 +25,6 @@ A brief description of your project.
 
 ## License
 Specify your license here.
+=======
+# TasteOfQings
+>>>>>>> 8ba12ef031e314027863e924940f56edbb9fb6ae
