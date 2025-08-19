@@ -4,7 +4,7 @@
 Welcome to **TasteOfQings** (QingsWaffles) – your home for delicious, healthy, and customizable waffle meals! This website is designed to showcase our menu, services, and make it easy for customers to place orders and contact us.
 
 ## Live Demo
-Visit the site: [TasteOfQings](https://github.com/razzy-max/Tas)
+Visit the site: [TasteOfQings](https://tasteofqings.netlify.app/)
 
 ## Features
 - **Modern Responsive Design:** Built with Bootstrap and custom CSS for a seamless experience on all devices.
